@@ -2,9 +2,9 @@ name: Build_image_and_push_dockerhub
 
 on:
     push:
-        branches: [ "main" ]
+        branches: ["main"]
     pull_request:
-        branches: [ "main" ]
+        branches: ["main"]
 
 jobs:
 
